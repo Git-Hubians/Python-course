@@ -7,7 +7,7 @@ It’s designed for beginners to understand how *input, **processing, and **outp
 ---
 
 ## ⚙ Code Implementation
-python
+```python
 num1 = float(input("Enter the first number: "))
 num2 = float(input("Enter the second number: "))
 sum = num1 + num2
@@ -17,7 +17,7 @@ print("The sum is:", sum)
 ---
 
 💡 Example Output
-
+```python
 Enter the first number: 5  
 Enter the second number: 10  
 The sum is: 15.0
@@ -28,14 +28,14 @@ The sum is: 15.0
 🖼 Visual Explanation
 
 <p align="center">
-  <img src="./images/sum_program.jpg" width="500" alt="Notability Style Python Code"/>
+  <img src="./images/sum_program.jpg" width="400" alt="Notability Style Python Code"/>
 </p>
 ---
 
 💻 Program Execution (VS Code)
 
 <p align="center">
-  <img src="./images/exercise1.png" width="500" alt="VS Code Program Execution"/>
+  <img src="./images/exercise1.png" width="400" alt="VS Code Program Execution"/>
 </p>
 ---
 
