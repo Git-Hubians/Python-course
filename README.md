@@ -28,14 +28,14 @@ The sum is: 15.0
 🖼 Visual Explanation
 
 <p align="center">
-  <img src="./images/sum_program.jpg" width="650" alt="Notability Style Python Code"/>
+  <img src="./images/sum_program.jpg" width="500" alt="Notability Style Python Code"/>
 </p>
 ---
 
 💻 Program Execution (VS Code)
 
 <p align="center">
-  <img src="./images/exercise1.png" width="650" alt="VS Code Program Execution"/>
+  <img src="./images/exercise1.png" width="500" alt="VS Code Program Execution"/>
 </p>
 ---
 
