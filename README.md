@@ -29,7 +29,7 @@ The sum is: 15.0
 ## 🖼️ Visual Explanation
 
 <p align="center">
-  <img src="https://github.com/aldawsarir/Python-course/blob/main/images/sum_program.jpg?raw=true" width="450" alt="Notability Style Python Code"/>
+  <img src="https://github.com/aldawsarir/Python-course/blob/main/images/images/sum_program.jpg?raw=true" width="450" alt="Notability Style Python Code"/>
 </p>
 
 ---
