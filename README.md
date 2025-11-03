@@ -7,7 +7,7 @@ It’s designed for beginners to understand how *input, **processing, and **outp
 ---
 
 ## ⚙ Code Implementation
-```python
+python
 num1 = float(input("Enter the first number: "))
 num2 = float(input("Enter the second number: "))
 sum = num1 + num2
@@ -17,7 +17,6 @@ print("The sum is:", sum)
 ---
 
 💡 Example Output
-```python
 Enter the first number: 5  
 Enter the second number: 10  
 The sum is: 15.0
