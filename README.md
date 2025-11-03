@@ -31,7 +31,6 @@ The sum is: 15.0
 <p align="center">
   <img src="./images/sum_program.jpg" width="400" alt="Notability Style Python Code"/>
 </p>
----
 
 💻 Program Execution (VS Code)
 
@@ -39,7 +38,6 @@ The sum is: 15.0
   <img src="./images/exercise1.png" width="400" alt="VS Code Program Execution"/>
 </p>
 
----
 
 ## 🧠 How It Works
 
